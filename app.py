@@ -287,10 +287,10 @@ elif paso == "4️⃣ Auditoría y Estadísticas":
         if alumno.empty:
             st.warning("Alumno no encontrado.")
         else:
-            st.markdown("### 👤 Alumno")
+            st.markdown("### 👤 Antiguedad del Alumno")
             st.table(alumno)
 
-            st.markdown("### 🎯 Preferencias")
+            st.markdown("### 🎯 Afinifaf del Alumno")
             st.table(pref)
 
             st.markdown("### 🧠 Perfil BAT-7")

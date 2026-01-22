@@ -290,7 +290,7 @@ elif paso == "4️⃣ Auditoría y Estadísticas":
             st.markdown("### 👤 Antiguedad del Alumno")
             st.table(alumno)
 
-            st.markdown("### 🎯 Afinifaf del Alumno")
+            st.markdown("### 🎯 Afinidaf del Alumno")
             st.table(pref)
 
             st.markdown("### 🧠 Perfil BAT-7")
